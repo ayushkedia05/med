@@ -1,0 +1,9 @@
+.card{
+    display: flex;
+    flex-wrap: wrap;
+     justify-content: center;
+}
+
+.cardin{
+    width: 10px;
+}
